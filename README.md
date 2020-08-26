@@ -6,10 +6,10 @@ This repo will contain slides and information from the Attacking Active Director
 
 Module Breakdown:
 
-Part 1: High-level Overview and Flow<br>
-Part 2: Infrastructure and Initial Footholds<br>
-Part 3: Internal Recon, Identifying Attack Paths<br>
-Part 4: Taking the Domain<br>
+Part 1: High-level Overview and Flow https://www.youtube.com/watch?v=iWDyzwcSZSs    
+Part 2: Infrastructure and Initial Footholds https://www.youtube.com/watch?v=aik8FXm2yE8  
+Part 3: Internal Recon, Identifying Attack Paths https://www.youtube.com/watch?v=MTWL7XDH1Ho   
+Part 4: Taking the Domain https://www.youtube.com/watch?v=qgLBbtE61-Y  
 Part 5: Post-Ex? Automation? Exfiltration? Avoiding Detection? Persistence?<br>
 .
 
